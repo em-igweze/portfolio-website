@@ -36,7 +36,7 @@ difference.
 - 📫 Reach me at [Your Email]
 - 💼 Check my [LinkedIn Profile]
 - 🐦 Follow me on [X Profile] for tech insights and updates
-- 🌍 Visit my [emmanueligweze.com] for more
+- 🌍 Visit my emmanueligweze.com for more
 
 Dive into my repos, star ⭐ your favorites, and let’s build something 
 amazing together! 🚀
